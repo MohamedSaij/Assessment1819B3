@@ -101,13 +101,15 @@
             </section>
             <section id="contactSection">
                 <header id="contactHeader"><h3>Contact</h3></header>
-                <p>Heeft u vragen of wilt u contact opnemen? Dan kunt u hier een bericht versturen.</p>
+                <p class="contactP">Heeft u vragen of wilt u contact opnemen? Dan kunt u hier een bericht versturen.</p>
                 <form action="http://witan.nl/inholland/testform.php">
                     <fieldset id="contactFieldset">
                         <legend id="contactLegend">Bericht</legend>
-                        <p>Voornaam en achternaam: <input type="text" name="name"></p>
-                        <p>E-mailadres: <input type="text" name="email"></p>
-                        <p>Bericht: <input type="text" name="message"></p>
+                        <p class="contactP">Voornaam en achternaam:<input type="text" name="name"></p>
+                        <p class="contactP">E-mailadres:<input type="text" name="email"></p>
+                        <p class="contactP">Bericht:</p>
+                        <p><textarea name="message" rows="15" cols="40"></textarea></p>
+                        <button id="contactButton" type="submit" formmethod="post">Stuur</button>
                     </fieldset>
                 </form>
             </section>
