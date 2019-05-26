@@ -1,4 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
+@font-face{
+    font-family: 'Roboto Slab', serif;
+}
 #bodyGrid {
+    font-family: 'Roboto Slab', sans-serif, 'arial', 'Berlin Sans';
     text-align: center;
     display: grid;
     background-color: #AAAAAA;
