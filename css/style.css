@@ -2,7 +2,7 @@
 @font-face{
     font-family: 'Roboto Slab', serif;
 }
-#bodyGrid {
+#body {
     font-family: 'Roboto Slab', sans-serif, 'arial', 'Berlin Sans';
     text-align: center;
     display: grid;
