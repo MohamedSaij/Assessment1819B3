@@ -26,3 +26,8 @@
     bottom: 0;
     left: 0;
 }
+
+#firstHeader, #navigation, .footer{
+    text-align: center;
+    font-size: 2.2em;
+}
