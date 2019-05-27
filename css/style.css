@@ -2,6 +2,36 @@
 @font-face{
     font-family: 'Roboto Slab', serif;
 }
+
+<!--TAGS-->
+#firstHeader{
+    grid-area: firstHeaderTag
+}
+#navigation{
+    grid-area: navigationTag
+}
+#mainSectopn{
+    grid-area: mainSectionTag;
+}
+#secondarySection{
+    grid-area: secondarySectionTag
+}
+#sportSection{
+    grid-area: sportSectionTag
+}
+#referralSectopn{
+    grid-area: referralSectopnTag;
+}
+#contactSection{
+    grid-area: contactSectionTag
+}
+#footer{
+    grid-area: footerTag
+}
+#cookies{
+    grid-area: cookiesTag;
+}
+
 #body {
     font-family: 'Roboto Slab', sans-serif, 'arial', 'Berlin Sans';
     display: grid;
