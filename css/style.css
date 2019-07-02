@@ -35,7 +35,6 @@
 #body {
     font-family: 'Roboto Slab', sans-serif, 'arial', 'Berlin Sans';
     display: grid;
-    background-color: #AAAAAA;
     justify-content: center;
     border: 0.5em;
     padding: 0.5em;
