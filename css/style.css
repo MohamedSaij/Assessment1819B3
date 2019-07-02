@@ -51,7 +51,7 @@
 
 #cookies {
     position: fixed;
-    border: 1px solid #444444
+    border: 1px solid #444444;
     background-color: #2699FB;
     z-index: 9999;
     bottom: 0;
