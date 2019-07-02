@@ -3,30 +3,30 @@
     font-family: 'Roboto Slab', serif;
 }
 
-<!--TAGS-->
+/*TAGS*/
 #firstHeader{
-    grid-area: firstHeaderTag
+    grid-area: firstHeaderTag;
 }
 #navigation{
-    grid-area: navigationTag
+    grid-area: navigationTag;
 }
-#mainSectopn{
+#mainSection{
     grid-area: mainSectionTag;
 }
 #secondarySection{
-    grid-area: secondarySectionTag
+    grid-area: secondarySectionTag;
 }
 #sportSection{
-    grid-area: sportSectionTag
+    grid-area: sportSectionTag;
 }
-#referralSectopn{
-    grid-area: referralSectopnTag;
+#referralSection{
+    grid-area: referralSectionTag;
 }
 #contactSection{
-    grid-area: contactSectionTag
+    grid-area: contactSectionTag;
 }
 #footer{
-    grid-area: footerTag
+    grid-area: footerTag;
 }
 #cookies{
     grid-area: cookiesTag;
